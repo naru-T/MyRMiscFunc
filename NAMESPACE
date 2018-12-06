@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+export("%+%")
+export(nacount)
+export(sp_naomit)
+export(write_gpkg)
+export("%!in%")
